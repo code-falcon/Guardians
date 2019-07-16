@@ -1,0 +1,7 @@
+name: Guardians
+version: 1.0
+main: com.falkon.guardians.Guardians
+description: Guardians.
+commands:
+  test:
+    description: Test.
